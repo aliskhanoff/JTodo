@@ -8,7 +8,7 @@
 * ##### Learning: Tailwind CSS  
 * ##### Learning: Multi-language support  
 
-| Demo link |  https://cute-daffodil-ae11b1.netlify.app/|
+| Demo link |  https://cute-daffodil-ae11b1.netlify.app |
 
 --- 
 ## Features
